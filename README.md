@@ -7,4 +7,4 @@ You can download a csv file containing all the political Facebook Ads newly crea
 The data was scraped on December 5, 2019, using the Facebook Ad Library API. 
 
 ### Analysis
-The full analysis -- filtering, cleaning and analysing the data -- can be found here.
+Python's Pandas and Matplotlib libraries were used to filter, clean and analyze the data. The full analysis can be found here.
